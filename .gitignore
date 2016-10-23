@@ -1,0 +1,12 @@
+*.jar
+*.iml
+.idea/*
+deploy
+target/*
+target/*
+*.class
+*.log
+*.log.*
+.idea
+.metadata/*
+generated
